@@ -21,6 +21,9 @@ define('WEBTAGS', 'bir bintang indonesia,tetap bisa bersama bintang,bintang,teta
 //project=
 define('FCM_SERVERKEY', '');
 
+define('SMTP_USER', 'Tetap Bisa');
+define('SMTP_PASSWORD', '3jaAWGx15Fr4w_dV5cHEMQ');
+
 /**
  * CodeIgniter
  *
